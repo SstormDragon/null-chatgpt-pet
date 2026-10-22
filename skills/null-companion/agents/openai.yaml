@@ -1,0 +1,6 @@
+interface:
+  display_name: "Null, the Glitch Demon"
+  short_description: "Sarcastic demon companion"
+  default_prompt: "Talk with me as Null, the Glitch Demon."
+policy:
+  allow_implicit_invocation: false
